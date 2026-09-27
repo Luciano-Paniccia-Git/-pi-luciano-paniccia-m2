@@ -1,0 +1,86 @@
+[
+  {
+    "user_question": "¿Cuántos días de vacaciones tengo por año y cómo los solicito?",
+    "system_answer": "Acumulas 15 días hábiles de vacaciones por año calendario completo, lo que equivale a 1.25 días por cada mes trabajado. Para solicitar vacaciones, debes ingresar a la sección \"Mi Tiempo Libre\" dentro de NimbusHR y completar el formulario con las fechas deseadas, con al menos 10 días hábiles de anticipación. Tu manager directo recibirá una notificación y tendrá 3 días hábiles para aprobar o rechazar la solicitud.",
+    "chunks_related": [
+      {
+        "id": 2,
+        "text": "Si no responde en ese plazo, la solicitud se aprueba automáticamente. Los días de vacaciones no utilizados se pueden acumular hasta un máximo de 5 días adicionales para el año siguiente; el resto se pierde el 31 de diciembre.",
+        "similarity": 0.643
+      },
+      {
+        "id": 1,
+        "text": "Política de vacaciones. Todos los empleados de tiempo completo acumulan 1.25 días de vacaciones por cada mes trabajado, lo que equivale a 15 días hábiles por año calendario completo. Las vacaciones se pueden empezar a usar después de completar el período de prueba de 90 días. Para solicitar vacaciones, el empleado debe ingresar a la sección \"Mi Tiempo Libre\" dentro de NimbusHR y completar el formulario con las fechas deseadas, con al menos 10 días hábiles de anticipación. El manager directo recibe una notificación automática y tiene 3 días hábiles para aprobar o rechazar la solicitud.",
+        "similarity": 0.6303
+      },
+      {
+        "id": 25,
+        "text": "Preguntas frecuentes sobre feriados y días especiales. NimbusHR respeta el calendario de feriados nacionales correspondiente al país de contratación de cada empleado, visible en la sección \"Calendario\" de la plataforma. Además, la empresa otorga 2 días adicionales de \"descanso flexible\" por año que el empleado puede usar en la fecha que prefiera (por ejemplo, un feriado religioso no oficial o un día personal), solicitándolos de la misma forma que las vacaciones tradicionales pero sin requerir aprobación del manager, solo notificación.",
+        "similarity": 0.537
+      }
+    ]
+  },
+  {
+    "user_question": "¿Qué pasa si pierdo el acceso a mi dispositivo de autenticación de dos factores?",
+    "system_answer": "Si pierdes el acceso a tu dispositivo de autenticación de dos factores, debes contactar al equipo de IT a través del canal de soporte interno. Es importante no compartir tu contraseña ni desactivar el 2FA como solución temporal.",
+    "chunks_related": [
+      {
+        "id": 14,
+        "text": "Seguridad de la cuenta y accesos. Cada empleado tiene un usuario único en NimbusHR asociado a su correo corporativo. Se requiere autenticación de dos factores (2FA) obligatoria desde el primer inicio de sesión. Si un empleado pierde acceso a su dispositivo de 2FA, debe contactar al equipo de IT a través del canal de soporte interno; nunca se debe compartir la contraseña ni desactivar el 2FA como solución temporal. Las contraseñas deben renovarse cada 180 días y no pueden reutilizarse respecto a las últimas 5 contraseñas usadas.",
+        "similarity": 0.569
+      },
+      {
+        "id": 15,
+        "text": "El sistema bloquea automáticamente la cuenta después de 5 intentos fallidos de inicio de sesión, y solo IT puede desbloquearla. Desvinculación y offboarding. Cuando un empleado se desvincula de la empresa, ya sea por renuncia o despido, Recursos Humanos genera en NimbusHR una checklist de offboarding que incluye: devolución de equipos, revocación de accesos a sistemas, liquidación final de haberes y entrega de la documentación laboral correspondiente. El acceso a NimbusHR se desactiva automáticamente a las 24 horas de la fecha de desvinculación registrada en el sistema. La liquidación final se procesa dentro de los 10 días hábiles posteriores a la fecha de baja, según la legislación laboral vigente.",
+        "similarity": 0.4143
+      },
+      {
+        "id": 24,
+        "text": "Política de equipamiento de trabajo. La empresa provee a cada empleado una notebook y los periféricos necesarios según su rol, gestionados a través del módulo de \"Activos\" de NimbusHR. Cualquier daño, pérdida o robo del equipo debe reportarse dentro de las 24 horas a través de un ticket de soporte, adjuntando cuando corresponda la denuncia policial en casos de robo. El reemplazo de equipos por desgaste normal se evalúa cada 3 años, mientras que fallas de hardware cubiertas por garantía se gestionan directamente con el equipo de IT sin costo para el empleado.",
+        "similarity": 0.3185
+      }
+    ]
+  },
+  {
+    "user_question": "¿Cómo funciona el bono de referidos y cuánto paga?",
+    "system_answer": "El bono de referidos es de 300 dólares y se paga junto con el sueldo del mes en que el candidato referido complete su período de prueba de 90 días. Para que el referido sea válido, el empleado debe cargar el nombre y CV del candidato en la sección \"Referidos\" de NimbusHR antes de que esa persona aplique formalmente. No se pagan bonos para posiciones de dirección o si el candidato ya estaba en proceso de selección antes de ser referido.",
+    "chunks_related": [
+      {
+        "id": 23,
+        "text": "Política de referidos. Los empleados que refieran a un candidato que sea contratado reciben un bono de referido de 300 dólares, pagado junto con el sueldo del mes en que el candidato referido complete su período de prueba de 90 días. Para que el referido sea válido, el empleado debe cargar el nombre y CV del candidato en la sección \"Referidos\" de NimbusHR antes de que esa persona aplique formalmente a la búsqueda. No se pagan bonos de referido para posiciones de dirección o gerencia general, ni si el candidato ya estaba en proceso de selección antes de ser referido.",
+        "similarity": 0.6565
+      },
+      {
+        "id": 11,
+        "text": "Los aumentos de sueldo aprobados se reflejan automáticamente en la liquidación del mes siguiente a su aprobación en el sistema. Beneficios y bienestar. NimbusHR administra también los beneficios adicionales de la empresa: cobertura de salud privada, reembolso parcial de gimnasio (hasta 40 dólares mensuales) y un bono anual de capacitación de 500 dólares por empleado para cursos, certificaciones o conferencias relacionadas con el rol. Para usar el bono de capacitación, el empleado debe cargar la propuesta de curso en la sección \"Desarrollo\" antes de inscribirse, y esperar la aprobación del manager, que suele demorar entre 2 y 5 días hábiles.",
+        "similarity": 0.4653
+      },
+      {
+        "id": 10,
+        "text": "Ciclo de pago y nómina. Los sueldos se liquidan el día 30 de cada mes (o el último día hábil anterior si el 30 cae en fin de semana o feriado). Los recibos de sueldo digitales están disponibles en la sección \"Nómina\" de NimbusHR a partir del día 28 de cada mes. Cualquier reclamo sobre el monto liquidado debe presentarse dentro de los 5 días hábiles posteriores al pago, a través del formulario de \"Consulta de Nómina\"; pasado ese plazo, el ajuste se procesará recién en el ciclo del mes siguiente.",
+        "similarity": 0.3641
+      }
+    ]
+  },
+  {
+    "user_question": "¿En qué plazo tengo que reclamar si mi sueldo se liquidó mal?",
+    "system_answer": "Debes presentar cualquier reclamo sobre el monto liquidado dentro de los 5 días hábiles posteriores al pago. Si no lo haces dentro de ese plazo, el ajuste se procesará en el ciclo del mes siguiente.",
+    "chunks_related": [
+      {
+        "id": 10,
+        "text": "Ciclo de pago y nómina. Los sueldos se liquidan el día 30 de cada mes (o el último día hábil anterior si el 30 cae en fin de semana o feriado). Los recibos de sueldo digitales están disponibles en la sección \"Nómina\" de NimbusHR a partir del día 28 de cada mes. Cualquier reclamo sobre el monto liquidado debe presentarse dentro de los 5 días hábiles posteriores al pago, a través del formulario de \"Consulta de Nómina\"; pasado ese plazo, el ajuste se procesará recién en el ciclo del mes siguiente.",
+        "similarity": 0.6029
+      },
+      {
+        "id": 22,
+        "text": "Cualquier solicitud de acceso, corrección o eliminación de datos personales por parte de un empleado debe canalizarse a través del formulario de \"Privacidad de Datos\", y la empresa tiene un plazo de 15 días hábiles para responder según la normativa vigente.",
+        "similarity": 0.4295
+      },
+      {
+        "id": 7,
+        "text": "Los gastos superiores a 100 dólares requieren aprobación manual del manager y, si superan los 500 dólares, aprobación adicional del área de Finanzas. El reembolso se procesa junto con el pago de sueldo del mes siguiente a la aprobación.",
+        "similarity": 0.4267
+      }
+    ]
+  }
+]

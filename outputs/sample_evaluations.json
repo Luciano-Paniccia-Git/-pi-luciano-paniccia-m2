@@ -1,0 +1,30 @@
+[
+  {
+    "user_question": "¿Cuántos días de vacaciones tengo por año y cómo los solicito?",
+    "evaluation": {
+      "score": 10,
+      "reason": "La respuesta es fiel a la información de los fragmentos, mencionando correctamente los 15 días hábiles y el proceso de solicitud. Cubre completamente la pregunta sobre días de vacaciones y cómo solicitarlos."
+    }
+  },
+  {
+    "user_question": "¿Qué pasa si pierdo el acceso a mi dispositivo de autenticación de dos factores?",
+    "evaluation": {
+      "score": 10,
+      "reason": "La respuesta es fiel a la información del fragmento 14, mencionando correctamente que se debe contactar al equipo de IT y no compartir la contraseña. Además, cubre completamente lo que la pregunta pedía."
+    }
+  },
+  {
+    "user_question": "¿Cómo funciona el bono de referidos y cuánto paga?",
+    "evaluation": {
+      "score": 10,
+      "reason": "La respuesta es fiel a la información de los fragmentos recuperados, mencionando correctamente el monto del bono, el proceso para que sea válido y las excepciones. Además, cubre completamente lo que la pregunta pedía sobre el funcionamiento y el pago del bono de referidos."
+    }
+  },
+  {
+    "user_question": "¿En qué plazo tengo que reclamar si mi sueldo se liquidó mal?",
+    "evaluation": {
+      "score": 10,
+      "reason": "La respuesta es fiel a la información del fragmento 10, que menciona el plazo de 5 días hábiles para presentar reclamos. Además, cubre completamente la pregunta sobre el plazo para reclamar."
+    }
+  }
+]
